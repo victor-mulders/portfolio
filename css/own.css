@@ -101,9 +101,9 @@ section {
     opacity: 0;
 }
 
-#projects, #contact, #copyright {
-    -webkit-animation: 2s ease normal forwards fadein 1.25s;
-    animation: 2s ease normal forwards fadein 1.25s;
+#projects, #contact, #resume, #copyright {
+    -webkit-animation: 2s ease normal forwards fadein 1s;
+    animation: 2s ease normal forwards fadein 1s;
     opacity: 0;
 }
 
