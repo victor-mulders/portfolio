@@ -10,11 +10,6 @@ body {
 
 }
 
-.pagina {
-    /*border-style: solid;*/
-    /*border-color: white;*/
-    /*border-width: 3px;*/
-}
 
 h3 {
     background-color: #0b0b0b;
@@ -91,4 +86,29 @@ section {
 
 .glyphicon {
     font-size: 40px;
+}
+
+
+
+#about, #vmlogo {
+    -webkit-animation: fadein 2s;
+    animation: fadein 2s;
+}
+
+#experience {
+    -webkit-animation: 2s ease normal forwards fadein 0.75s;
+    animation: 2s ease normal forwards fadein 0.75s;
+    opacity: 0;
+}
+
+#projects, #contact, #copyright {
+    -webkit-animation: 2s ease normal forwards fadein 1.25s;
+    animation: 2s ease normal forwards fadein 1.25s;
+    opacity: 0;
+}
+
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
 }
