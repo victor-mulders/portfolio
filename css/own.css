@@ -1,0 +1,94 @@
+body {
+    background-color: black;
+    font-family: Corbel;
+    color: ghostwhite;
+    font-size: 18px;
+    border-left: 6px solid ghostwhite;
+    border-right: 6px solid ghostwhite;
+    border-top: 6px solid ghostwhite;
+    border-bottom: 6px solid ghostwhite;
+
+}
+
+.pagina {
+    /*border-style: solid;*/
+    /*border-color: white;*/
+    /*border-width: 3px;*/
+}
+
+h3 {
+    background-color: #0b0b0b;
+    color: whitesmoke;
+    font-weight: bold;
+    font-family: "Lucida Console";
+    font-size: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+a{
+    color: lightgrey;
+}
+
+a:hover {
+    color: #999999;
+}
+
+.reference {
+    border: 2px solid ghostwhite;
+    padding-right: 3px;
+    padding-left: 3px;
+    color: whitesmoke;
+}
+
+ul {
+    list-style: square;
+}
+
+
+h1 {
+    font-size: 45px;
+    font-family: "Lucida Console";
+}
+
+hr {
+    border-width: 5px;
+    border-color: white;
+    width: 80px;
+}
+
+section {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.main {
+    padding: 200px;
+}
+
+.marked {
+    background-color: whitesmoke;
+    color: #0b0b0b;
+    padding-right: 3px;
+    padding-left: 3px;
+    font-weight: bold;
+}
+
+.vmlogo {
+    background-color: whitesmoke;
+    padding-top: 40px;
+}
+
+.blackhr {
+    border-color: #0b0b0b;
+    border-width: 3px;
+    width: 40px;
+}
+
+::selection {
+    background: #999999;
+}
+
+.glyphicon {
+    font-size: 40px;
+}
