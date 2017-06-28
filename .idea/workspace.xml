@@ -11,14 +11,34 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.78941035">
+    <splitter split-orientation="horizontal" split-proportion="0.8987952">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="468">
-                  <caret line="222" column="57" lean-forward="true" selection-start-line="222" selection-start-column="57" selection-end-line="222" selection-end-column="57" />
+                <state relative-caret-position="493">
+                  <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="329">
+                  <caret line="4" column="82824" lean-forward="false" selection-start-line="4" selection-start-column="82824" selection-end-line="4" selection-end-column="82824" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="329">
+                  <caret line="4" column="82824" lean-forward="false" selection-start-line="4" selection-start-column="82824" selection-end-line="4" selection-end-column="82824" />
                   <folding />
                 </state>
               </provider>
@@ -51,8 +71,8 @@
           <file leaf-file-name="own.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/own.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="227">
-                  <caret line="74" column="1" lean-forward="true" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+                <state relative-caret-position="1258">
+                  <caret line="74" column="1" lean-forward="false" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -62,7 +82,7 @@
             <entry file="file://$PROJECT_DIR$/js/own_jquery.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="170">
-                  <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                  <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -91,6 +111,8 @@
         <option value="$PROJECT_DIR$/js/own_jquery.js" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/own.css" />
+        <option value="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -126,6 +148,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -183,7 +206,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -289,18 +311,19 @@
       <workItem from="1498305191112" duration="11289000" />
       <workItem from="1498395556981" duration="12819000" />
       <workItem from="1498424131689" duration="2117000" />
-      <workItem from="1498584991024" duration="3688000" />
+      <workItem from="1498584991024" duration="4285000" />
+      <workItem from="1498649982733" duration="542000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38010000" />
+    <option name="totallyTimeSpent" value="39149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.114072494" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11513859" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -330,6 +353,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3774">
+          <caret line="222" column="57" lean-forward="true" selection-start-line="222" selection-start-column="57" selection-end-line="222" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/own.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/own.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="1" lean-forward="true" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/own_jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4114">
@@ -433,20 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="4" column="3911" lean-forward="false" selection-start-line="4" selection-start-column="3911" selection-end-line="4" selection-end-column="3911" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="4" column="3911" lean-forward="false" selection-start-line="4" selection-start-column="3911" selection-end-line="4" selection-end-column="3911" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -458,12 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <marker date="1498517070773" expanded="true" signature="459:814" ph="SELECT * FRO... klant" />
-            <marker date="1498517070773" expanded="true" signature="1331:1568" ph="..." />
-            <marker date="1498517070773" expanded="true" signature="1356:1568" ph="..." />
-            <marker date="1498517070773" expanded="true" signature="1839:2246" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -486,15 +521,31 @@
     <entry file="file://$PROJECT_DIR$/js/own_jquery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="4" column="82824" lean-forward="false" selection-start-line="4" selection-start-column="82824" selection-end-line="4" selection-end-column="82824" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="4" column="82824" lean-forward="false" selection-start-line="4" selection-start-column="82824" selection-end-line="4" selection-end-column="82824" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="222" column="57" lean-forward="true" selection-start-line="222" selection-start-column="57" selection-end-line="222" selection-end-column="57" />
+        <state relative-caret-position="493">
+          <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
           <folding />
         </state>
       </provider>
